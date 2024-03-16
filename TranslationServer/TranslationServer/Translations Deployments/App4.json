@@ -1,0 +1,82 @@
+[
+  {
+    "Key": "Hello",
+    "Words": {
+      "English": "hello",
+      "French": "bonjour",
+      "Dutch": "hallo"
+    }
+  },
+  {
+    "Key": "Goodbye",
+    "Words": {
+      "English": "goodbye",
+      "French": "au revoir",
+      "Dutch": "tot ziens"
+    }
+  },
+  {
+    "Key": "Thank you",
+    "Words": {
+      "English": "thank you",
+      "French": "merci",
+      "Dutch": "dank u"
+    }
+  },
+  {
+    "Key": "Welcome",
+    "Words": {
+      "English": "welcome",
+      "French": "bienvenue",
+      "Dutch": "welkom"
+    }
+  },
+  {
+    "Key": "Yes",
+    "Words": {
+      "English": "yes",
+      "French": "oui",
+      "Dutch": "ja"
+    }
+  },
+  {
+    "Key": "No",
+    "Words": {
+      "English": "no",
+      "French": "non",
+      "Dutch": "nee"
+    }
+  },
+  {
+    "Key": "Please",
+    "Words": {
+      "English": "please",
+      "French": "s\u0027il vous pla\u00EEt",
+      "Dutch": "alstublieft"
+    }
+  },
+  {
+    "Key": "Sorry",
+    "Words": {
+      "English": "sorry",
+      "French": "d\u00E9sol\u00E9",
+      "Dutch": "sorry"
+    }
+  },
+  {
+    "Key": "Good morning",
+    "Words": {
+      "English": "good morning",
+      "French": "bonjour",
+      "Dutch": "goedemorgen"
+    }
+  },
+  {
+    "Key": "Good evening",
+    "Words": {
+      "English": "good evening",
+      "French": "bonsoir",
+      "Dutch": "goedenavond"
+    }
+  }
+]

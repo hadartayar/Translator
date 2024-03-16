@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\odelia\\Desktop\\TranslationApp\\TranslationServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F39BF7B-9E23-40CD-BC39-3FE242EA6045}|TranslationServer\\TranslationServer.csproj|c:\\users\\odelia\\desktop\\translationapp\\translationserver\\translationserver\\model\\translationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F39BF7B-9E23-40CD-BC39-3FE242EA6045}|TranslationServer\\TranslationServer.csproj|solutionrelative:translationserver\\model\\translationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F39BF7B-9E23-40CD-BC39-3FE242EA6045}|TranslationServer\\TranslationServer.csproj|c:\\users\\odelia\\desktop\\translationapp\\translationserver\\translationserver\\controllers\\translationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F39BF7B-9E23-40CD-BC39-3FE242EA6045}|TranslationServer\\TranslationServer.csproj|solutionrelative:translationserver\\controllers\\translationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F39BF7B-9E23-40CD-BC39-3FE242EA6045}|TranslationServer\\TranslationServer.csproj|c:\\users\\odelia\\desktop\\translationapp\\translationserver\\translationserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F39BF7B-9E23-40CD-BC39-3FE242EA6045}|TranslationServer\\TranslationServer.csproj|solutionrelative:translationserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F39BF7B-9E23-40CD-BC39-3FE242EA6045}|TranslationServer\\TranslationServer.csproj|c:\\users\\odelia\\desktop\\translationapp\\translationserver\\translationserver\\model\\translatorapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F39BF7B-9E23-40CD-BC39-3FE242EA6045}|TranslationServer\\TranslationServer.csproj|solutionrelative:translationserver\\model\\translatorapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F39BF7B-9E23-40CD-BC39-3FE242EA6045}|TranslationServer\\TranslationServer.csproj|c:\\users\\odelia\\desktop\\translationapp\\translationserver\\translationserver\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6F39BF7B-9E23-40CD-BC39-3FE242EA6045}|TranslationServer\\TranslationServer.csproj|solutionrelative:translationserver\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F39BF7B-9E23-40CD-BC39-3FE242EA6045}|TranslationServer\\TranslationServer.csproj|c:\\users\\odelia\\desktop\\translationapp\\translationserver\\translationserver\\model\\translation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F39BF7B-9E23-40CD-BC39-3FE242EA6045}|TranslationServer\\TranslationServer.csproj|solutionrelative:translationserver\\model\\translation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F39BF7B-9E23-40CD-BC39-3FE242EA6045}|TranslationServer\\TranslationServer.csproj|c:\\users\\odelia\\desktop\\translationapp\\translationserver\\translationserver\\model\\initialdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F39BF7B-9E23-40CD-BC39-3FE242EA6045}|TranslationServer\\TranslationServer.csproj|solutionrelative:translationserver\\model\\initialdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F39BF7B-9E23-40CD-BC39-3FE242EA6045}|TranslationServer\\TranslationServer.csproj|c:\\users\\odelia\\desktop\\translationapp\\translationserver\\translationserver\\translationserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6F39BF7B-9E23-40CD-BC39-3FE242EA6045}|TranslationServer\\TranslationServer.csproj|solutionrelative:translationserver\\translationserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TranslationManager.cs",
+              "DocumentMoniker": "C:\\Users\\odelia\\Desktop\\TranslationApp\\TranslationServer\\TranslationServer\\Model\\TranslationManager.cs",
+              "RelativeDocumentMoniker": "TranslationServer\\Model\\TranslationManager.cs",
+              "ToolTip": "C:\\Users\\odelia\\Desktop\\TranslationApp\\TranslationServer\\TranslationServer\\Model\\TranslationManager.cs",
+              "RelativeToolTip": "TranslationServer\\Model\\TranslationManager.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAIwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T20:24:00.901Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\odelia\\Desktop\\TranslationApp\\TranslationServer\\TranslationServer\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TranslationServer\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\odelia\\Desktop\\TranslationApp\\TranslationServer\\TranslationServer\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TranslationServer\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-16T09:37:11.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InitialData.cs",
+              "DocumentMoniker": "C:\\Users\\odelia\\Desktop\\TranslationApp\\TranslationServer\\TranslationServer\\Model\\InitialData.cs",
+              "RelativeDocumentMoniker": "TranslationServer\\Model\\InitialData.cs",
+              "ToolTip": "C:\\Users\\odelia\\Desktop\\TranslationApp\\TranslationServer\\TranslationServer\\Model\\InitialData.cs",
+              "RelativeToolTip": "TranslationServer\\Model\\InitialData.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T23:34:14.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TranslationController.cs",
+              "DocumentMoniker": "C:\\Users\\odelia\\Desktop\\TranslationApp\\TranslationServer\\TranslationServer\\Controllers\\TranslationController.cs",
+              "RelativeDocumentMoniker": "TranslationServer\\Controllers\\TranslationController.cs",
+              "ToolTip": "C:\\Users\\odelia\\Desktop\\TranslationApp\\TranslationServer\\TranslationServer\\Controllers\\TranslationController.cs",
+              "RelativeToolTip": "TranslationServer\\Controllers\\TranslationController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowB4AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T19:55:47.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\odelia\\Desktop\\TranslationApp\\TranslationServer\\TranslationServer\\Program.cs",
+              "RelativeDocumentMoniker": "TranslationServer\\Program.cs",
+              "ToolTip": "C:\\Users\\odelia\\Desktop\\TranslationApp\\TranslationServer\\TranslationServer\\Program.cs",
+              "RelativeToolTip": "TranslationServer\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T19:17:02.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TranslationServer.csproj",
+              "DocumentMoniker": "C:\\Users\\odelia\\Desktop\\TranslationApp\\TranslationServer\\TranslationServer\\TranslationServer.csproj",
+              "RelativeDocumentMoniker": "TranslationServer\\TranslationServer.csproj",
+              "ToolTip": "C:\\Users\\odelia\\Desktop\\TranslationApp\\TranslationServer\\TranslationServer\\TranslationServer.csproj",
+              "RelativeToolTip": "TranslationServer\\TranslationServer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-13T08:30:56.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Translation.cs",
+              "DocumentMoniker": "C:\\Users\\odelia\\Desktop\\TranslationApp\\TranslationServer\\TranslationServer\\Model\\Translation.cs",
+              "RelativeDocumentMoniker": "TranslationServer\\Model\\Translation.cs",
+              "ToolTip": "C:\\Users\\odelia\\Desktop\\TranslationApp\\TranslationServer\\TranslationServer\\Model\\Translation.cs",
+              "RelativeToolTip": "TranslationServer\\Model\\Translation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T22:46:44.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TranslatorApp.cs",
+              "DocumentMoniker": "C:\\Users\\odelia\\Desktop\\TranslationApp\\TranslationServer\\TranslationServer\\Model\\TranslatorApp.cs",
+              "RelativeDocumentMoniker": "TranslationServer\\Model\\TranslatorApp.cs",
+              "ToolTip": "C:\\Users\\odelia\\Desktop\\TranslationApp\\TranslationServer\\TranslationServer\\Model\\TranslatorApp.cs",
+              "RelativeToolTip": "TranslationServer\\Model\\TranslatorApp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T22:45:50.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

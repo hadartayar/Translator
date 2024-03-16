@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kxs2yQRokVQ2FkyIVEVdTH2lw3sN7ELy1bWzMBizGrc=",
+  "Source": "TranslationServer",
+  "BasePath": "_content/TranslationServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

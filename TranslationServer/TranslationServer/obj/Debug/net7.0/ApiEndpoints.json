@@ -1,0 +1,127 @@
+[
+  {
+    "ContainingType": "TranslationServer.Controllers.TranslationController",
+    "Method": "DeleteApplication",
+    "RelativePath": "{appId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "appId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "TranslationServer.Model.TranslatorApp",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TranslationServer.Controllers.TranslationController",
+    "Method": "AddTranslations",
+    "RelativePath": "{appId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "appId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "newTranslations",
+        "Type": "System.Collections.Generic.List\u00601[[TranslationServer.Model.Translation, TranslationServer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TranslationServer.Controllers.TranslationController",
+    "Method": "DeployTranslations",
+    "RelativePath": "{appId}/deploy",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "appId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TranslationServer.Controllers.TranslationController",
+    "Method": "DownloadTranslations",
+    "RelativePath": "{appId}/download",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "appId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TranslationServer.Controllers.TranslationController",
+    "Method": "GetApplications",
+    "RelativePath": "api/Translation",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[TranslationServer.Model.TranslatorApp, TranslationServer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TranslationServer.Controllers.TranslationController",
+    "Method": "AddNewApplication",
+    "RelativePath": "api/Translation",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newApp",
+        "Type": "TranslationServer.Model.TranslatorApp",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "TranslationServer.Model.TranslatorApp",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

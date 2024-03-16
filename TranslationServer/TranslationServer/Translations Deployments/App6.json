@@ -1,0 +1,26 @@
+[
+  {
+    "Key": "Hello",
+    "Words": {
+      "English": "hello",
+      "French": "bonjour",
+      "Dutch": "hallo"
+    }
+  },
+  {
+    "Key": "Goodbye",
+    "Words": {
+      "English": "goodbye",
+      "French": "au revoir",
+      "Dutch": "tot ziens"
+    }
+  },
+  {
+    "Key": "Vdsv",
+    "Words": {
+      "English": "vdsv",
+      "French": "dsvds",
+      "Dutch": "vffd"
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "Key": "Thank you",
+    "Words": {
+      "English": "thank you",
+      "French": "merci",
+      "Dutch": "dank u"
+    }
+  },
+  {
+    "Key": "Welcome",
+    "Words": {
+      "English": "welcome",
+      "French": "bienvenue",
+      "Dutch": "welkom"
+    }
+  },
+  {
+    "Key": "Yes",
+    "Words": {
+      "English": "yes",
+      "French": "oui",
+      "Dutch": "ja"
+    }
+  }
+]
