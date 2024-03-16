@@ -1,0 +1,48 @@
+@import "rsuite/dist/rsuite.css";
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 20px auto;
+  font-family: 'Lato';
+  /* background: linear-gradient(180deg, rgba(0, 0, 0, 0.6867121848739496) 0%, rgba(104, 116, 139, 1) 48%, rgba(29, 25, 18, 1) 100%); */
+  color: #fff;
+  background: rgb(50, 49, 47);
+  background: linear-gradient(180deg, rgba(50, 49, 47, 1) 0%, rgba(175, 194, 201, 1) 25%, rgba(164, 207, 218, 1) 50%, rgba(175, 194, 201, 1) 75%, rgba(50, 49, 47, 1) 100%);
+  padding: 0 16px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+  background: black;
+  margin: auto -16px;
+  padding: 16px 32px;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+}
+
+header h1 {
+  color: #fff;
+  font-family: "McLaren", cursive;
+  font-weight: 200;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.pageContainer {
+  display: flex;
+}
+
+.pageContent {
+  margin-left: 8%;
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  float: 'left'
+}
